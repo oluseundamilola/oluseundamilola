@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oluseundamilola
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React-Redux and Angular
+- 🌱 ReactJS and AngularTS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with oluseundamilola@gmail.com, +234 9035268778
 
