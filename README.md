@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oluseundamilola
-- 👀 I’m interested in web development
-- 🌱 ReactJS and AngularTS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building outstanding web apps
+- 🌱 MERN Stack
 - 📫 How to reach me with oluseundamilola@gmail.com, +234 9035268778
 
 <!---
